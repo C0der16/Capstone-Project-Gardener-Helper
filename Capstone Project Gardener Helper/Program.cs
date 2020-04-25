@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 namespace Capstone_Project_Gardener_Helper
 {
 
-    // **************************************************
+    // ****************************************************
     //
     // Title: Gardener Helper
     // Description: A helpful tool for gardeners looking for more information
@@ -18,7 +18,7 @@ namespace Capstone_Project_Gardener_Helper
     // Dated Created: 4/12/2020
     // Last Modified: 4/24/2020
     //
-    // **************************************************
+    // *****************************************************
 
     class Program
     {
