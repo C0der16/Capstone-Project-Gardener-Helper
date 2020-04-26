@@ -495,7 +495,7 @@ namespace Capstone_Project_Gardener_Helper
             Console.Clear();
 
             Console.WriteLine("                                 ");
-            Console.WriteLine("          Garder Helper          ");
+            Console.WriteLine("         Gardener Helper        ");
             Console.WriteLine("                                 ");
             Console.WriteLine("               OOO               ");
             Console.WriteLine("              O O O              ");
